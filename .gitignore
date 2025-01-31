@@ -1,0 +1,44 @@
+# WordPress config file
+wp-config.php
+
+# Database files
+*.sql
+
+# Backup files
+*.bak
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Composer
+/vendor/
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Temporary files
+*.swp
+*.swo
+
+# WordPress uploads
+wp-content/uploads/
+
+# Cache folders
+wp-content/cache/
+wp-content/backups/
+
+# WP CLI files
+wp-cli.yml
+
+# Debug files
+debug.log
